@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/frogermcs/InstaMaterial/commit/6a8f6261c3633a1bfc09f95754c4300f42e5da23",
       "git:hexsha": "6a8f6261c3633a1bfc09f95754c4300f42e5da23",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/frogermcs/InstaMaterial/commit/2c68b1a308dfcd87bc1d542531808f99da980bb8",
